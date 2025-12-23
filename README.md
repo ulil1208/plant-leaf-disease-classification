@@ -38,3 +38,9 @@ pip install -r requirements.txt
 streamlit run app.py
 
 # plant-leaf-disease-classification
+
+### Dataset Usage
+Dataset **tidak disertakan** dalam repository ini karena ukuran file yang besar
+(melebihi batas GitHub).  
+Pengguna dapat mengunduh dataset secara mandiri melalui Kaggle
+dan menyesuaikan struktur folder sesuai dokumentasi.
